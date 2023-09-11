@@ -19,6 +19,13 @@ img {
   margin: 16px auto 32px;
 }
 
+.flex-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 52px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
