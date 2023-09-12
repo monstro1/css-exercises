@@ -17,12 +17,15 @@ body {
 }
 
 .header, .footer {
-	background-color: #eee;
 	width: 100vw;
 	padding: 16px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+}
+
+.footer {
+	background-color: #eee;
 }
 
 .left-links, .right-links {
