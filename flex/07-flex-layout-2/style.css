@@ -33,6 +33,18 @@ main {
   width: 300px;
   flex-shrink: 0;
   background: royalblue;
+  padding: 16px;
+  font-size: 24px;
+}
+
+li {
+	list-style-type: none;
+	padding: 8px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
 }
 
 .card {
