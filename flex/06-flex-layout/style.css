@@ -25,6 +25,13 @@ body {
 	align-items: center;
 }
 
+.left-links, .right-links {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 16px;
+}
+
 ul {
 	list-style-type: none;
 }
